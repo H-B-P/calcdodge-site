@@ -4,6 +4,7 @@ a:MCS_Dampen.mp3:957602:application/unknown
 i:statusbar.png:392:image/png
 i:shield_layer_one.png:185:image/png
 i:explosion.png:323:image/png
+i:cartesian_dodger_L4.png:200:image/png
 i:blackbar_poncho.png:20571:image/png
 i:abutton_arcade.png:2355:image/png
 i:shield_layer_four.png:287:image/png
@@ -22,6 +23,7 @@ i:regular_font/gravity_20.png:10678:image/png
 t:regular_font/gravity_20_book.fnt:11179:application/unknown
 i:shield_layer_three.png:259:image/png
 i:sniperdot.png:147:image/png
+i:cartesian_dodger_L1.png:253:image/png
 i:asterisk2.png:446:image/png
 d:js_sfx:0:application/unknown
 a:js_sfx/344517__jeremysykes__beamup02.wav:161940:audio/x-wav
@@ -94,6 +96,7 @@ a:other_sfx/cannon.mp3:4241:application/unknown
 a:other_sfx/bang.mp3:6696:application/unknown
 i:abutton_campaign.png:2649:image/png
 i:cartesian_dodger.png:200:image/png
+i:cartesian_dodger_L3.png:262:image/png
 i:abutton_trim_boring.png:519:image/png
 d:dots:0:application/unknown
 i:dots/dot_pink.png:118:image/png
@@ -114,6 +117,7 @@ i:dots/dot_yellow_and.png:190:image/png
 i:dots/dot_book_red.png:118:image/png
 i:dots/dot_white.png:118:image/png
 i:dots/dot_green.png:118:image/png
+i:cartesian_dodger_L2.png:266:image/png
 d:sfx_scronched:0:application/unknown
 a:sfx_scronched/wrong.wav:23254:audio/x-wav
 a:sfx_scronched/cannon.mp3:4241:application/unknown
