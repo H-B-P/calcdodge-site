@@ -1,14 +1,14 @@
 d:assets:0:application/unknown
 i:PROBDEF.png:3575:image/png
 a:MCS_Dampen.mp3:957602:application/unknown
-i:statusbar.png:404:image/png
+i:statusbar.png:392:image/png
 i:shield_layer_one.png:185:image/png
 i:explosion.png:323:image/png
 i:blackbar_poncho.png:20571:image/png
 i:abutton_arcade.png:2355:image/png
 i:shield_layer_four.png:287:image/png
 i:abutton_options.png:2652:image/png
-i:grid_II.png:1822:image/png
+i:grid_II.png:1786:image/png
 d:regular_font:0:application/unknown
 t:regular_font/OFL.txt:4483:text/plain
 i:regular_font/gravity_20_book.png:10351:image/png
@@ -126,7 +126,7 @@ a:sfx_scronched/shock.mp3:792:application/unknown
 a:sfx_scronched/laser.wav:24254:audio/x-wav
 a:Menu.mp3:387503:application/unknown
 a:LevelSelect.mp3:630575:application/unknown
-i:window_normal.png:1459:image/png
+i:window_normal.png:1452:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5350:application/unknown
