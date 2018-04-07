@@ -131,6 +131,7 @@ a:sfx_scronched/laser.wav:24254:audio/x-wav
 a:Menu.mp3:387503:application/unknown
 a:LevelSelect.mp3:630575:application/unknown
 i:window_normal.png:1452:image/png
+i:cartesian_dodger_L5.png:226:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5350:application/unknown
